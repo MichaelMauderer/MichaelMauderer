@@ -1,16 +1,14 @@
-## Hi there 👋
+# Michael Mauderer
 
-<!--
-**MichaelMauderer/MichaelMauderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer specializing in visual computing and data systems. I build high-performance applications that transform complex information into clear, interactive experiences. My work ranges from graphics engines and real-time data pipelines to scientific computing libraries and developer tools.
 
-Here are some ideas to get you started:
+My background bridges research and engineering. I've contributed to open-source projects like Colour (a comprehensive Python color science library), developed visual programming environments, and built eye-tracking systems that augment human perception in real time. From AR/VR applications to automotive interfaces, I focus on systems that handle demanding performance requirements while remaining intuitive to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- Website: [michaelmauderer.com](https://michaelmauderer.com)
+- Location: Edinburgh, Scotland
+
+---
+
+Currently available for freelance projects and consulting work in graphics programming, data processing, and technical leadership.
